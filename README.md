@@ -1,0 +1,1 @@
+Git init new project
